@@ -1,0 +1,515 @@
+fileFormatVersion: 2
+guid: c6a0f3b853d801847bebb4a2de28922d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5095261792380165789
+    second: GameJam_Logo_6_0
+  - first:
+      213: 3058498617918602888
+    second: GameJam_Logo_6_1
+  - first:
+      213: 2061482806447672140
+    second: GameJam_Logo_6_2
+  - first:
+      213: -8639783731356666012
+    second: GameJam_Logo_6_3
+  - first:
+      213: 7448689499367106704
+    second: GameJam_Logo_6_4
+  - first:
+      213: -4199592145409517074
+    second: GameJam_Logo_6_5
+  - first:
+      213: -1535452879919479205
+    second: GameJam_Logo_6_6
+  - first:
+      213: -4277554956057368189
+    second: GameJam_Logo_6_7
+  - first:
+      213: 7770693818458041022
+    second: GameJam_Logo_6_8
+  - first:
+      213: 6972091118460515977
+    second: GameJam_Logo_6_9
+  - first:
+      213: 4925491339831191941
+    second: GameJam_Logo_6_10
+  - first:
+      213: -1964385975433151757
+    second: GameJam_Logo_6_11
+  - first:
+      213: 2025255299925079183
+    second: GameJam_Logo_6_12
+  - first:
+      213: 1540763027986615665
+    second: GameJam_Logo_6_13
+  - first:
+      213: -3436889788541666277
+    second: GameJam_Logo_6_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameJam_Logo_6_0
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 224
+        width: 65
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3616f8b456ef949b0800000000000000
+      internalID: -5095261792380165789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameJam_Logo_6_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 222
+        width: 78
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ebf03d948f17a20800000000000000
+      internalID: 3058498617918602888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameJam_Logo_6_2
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 224
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b83e4b0bbdb9c10800000000000000
+      internalID: 2061482806447672140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameJam_Logo_6_3
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 18
+        width: 119
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467794cc872591880800000000000000
+      internalID: -8639783731356666012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameJam_Logo_6_4
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 18
+        width: 210
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09865f382af0f5760800000000000000
+      internalID: 7448689499367106704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameJam_Logo_6_5
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 226
+        width: 77
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee95853b13d08b5c0800000000000000
+      internalID: -4199592145409517074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameJam_Logo_6_6
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 224
+        width: 20
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b568c0badb9f0bae0800000000000000
+      internalID: -1535452879919479205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameJam_Logo_6_7
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 224
+        width: 20
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3892df05e6213a4c0800000000000000
+      internalID: -4277554956057368189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameJam_Logo_6_8
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 222
+        width: 77
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebae3836bdc07db60800000000000000
+      internalID: 7770693818458041022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameJam_Logo_6_9
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 224
+        width: 109
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986be79bee7d1c060800000000000000
+      internalID: 6972091118460515977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameJam_Logo_6_10
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 92
+        width: 148
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589a6e6f64cda5440800000000000000
+      internalID: 4925491339831191941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameJam_Logo_6_11
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 0
+        width: 692
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa3c84fc591db4e0800000000000000
+      internalID: -1964385975433151757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameJam_Logo_6_12
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 205
+        width: 238
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84f28b07f62b1c10800000000000000
+      internalID: 2025255299925079183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameJam_Logo_6_13
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 205
+        width: 260
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d82368fc3e16510800000000000000
+      internalID: 1540763027986615665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameJam_Logo_6_14
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 29
+        width: 207
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c7ecd52f6bd40d0800000000000000
+      internalID: -3436889788541666277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GameJam_Logo_6_0: -5095261792380165789
+      GameJam_Logo_6_1: 3058498617918602888
+      GameJam_Logo_6_10: 4925491339831191941
+      GameJam_Logo_6_11: -1964385975433151757
+      GameJam_Logo_6_12: 2025255299925079183
+      GameJam_Logo_6_13: 1540763027986615665
+      GameJam_Logo_6_14: -3436889788541666277
+      GameJam_Logo_6_2: 2061482806447672140
+      GameJam_Logo_6_3: -8639783731356666012
+      GameJam_Logo_6_4: 7448689499367106704
+      GameJam_Logo_6_5: -4199592145409517074
+      GameJam_Logo_6_6: -1535452879919479205
+      GameJam_Logo_6_7: -4277554956057368189
+      GameJam_Logo_6_8: 7770693818458041022
+      GameJam_Logo_6_9: 6972091118460515977
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
