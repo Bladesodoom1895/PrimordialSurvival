@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &5900355040920954865
+--- !u!1 &5219667228650769874
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,25 +8,25 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 8957035028556155967}
-  - component: {fileID: 3377333917692174728}
-  - component: {fileID: 8181695702305693982}
-  - component: {fileID: 6330635013419426706}
-  - component: {fileID: 4712922859638193917}
+  - component: {fileID: 260801001157744547}
+  - component: {fileID: 4618160535887839687}
+  - component: {fileID: 7373229595507328486}
+  - component: {fileID: 9185046153797712991}
+  - component: {fileID: 812691598232475016}
   m_Layer: 0
-  m_Name: NextLevelPortal
+  m_Name: GoldRoomPortal
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &8957035028556155967
+--- !u!4 &260801001157744547
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5900355040920954865}
+  m_GameObject: {fileID: 5219667228650769874}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -35,13 +35,13 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!212 &3377333917692174728
+--- !u!212 &4618160535887839687
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5900355040920954865}
+  m_GameObject: {fileID: 5219667228650769874}
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -78,7 +78,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 3092644662691162201, guid: 6dd82bc59c3d5d347b2e142604a01a6f, type: 3}
+  m_Sprite: {fileID: 7664116807107917272, guid: c8c3a55fedcf1d249922e0a5457ee6be, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -89,13 +89,13 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!58 &8181695702305693982
+--- !u!58 &7373229595507328486
 CircleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5900355040920954865}
+  m_GameObject: {fileID: 5219667228650769874}
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
@@ -125,13 +125,13 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0.002741754, y: 0}
   m_Radius: 0.7476477
---- !u!198 &6330635013419426706
+--- !u!198 &9185046153797712991
 ParticleSystem:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5900355040920954865}
+  m_GameObject: {fileID: 5219667228650769874}
   serializedVersion: 8
   lengthInSec: 5
   simulationSpeed: 0.8
@@ -318,7 +318,7 @@ ParticleSystem:
       maxColor: {r: 0, g: 0, b: 0, a: 1}
       maxGradient:
         serializedVersion: 2
-        key0: {r: 0, g: 1, b: 1, a: 1}
+        key0: {r: 0.5377358, g: 0.45002708, b: 0.07863118, a: 1}
         key1: {r: 1, g: 1, b: 1, a: 1}
         key2: {r: 0, g: 0, b: 0, a: 0}
         key3: {r: 0, g: 0, b: 0, a: 0}
@@ -349,7 +349,7 @@ ParticleSystem:
       minGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
-        key1: {r: 0, g: 1, b: 1, a: 1}
+        key1: {r: 0.5411765, g: 0.45098042, b: 0.08235294, a: 1}
         key2: {r: 0, g: 0, b: 0, a: 0}
         key3: {r: 0, g: 0, b: 0, a: 0}
         key4: {r: 0, g: 0, b: 0, a: 0}
@@ -4848,14 +4848,14 @@ ParticleSystem:
         m_PostInfinity: 2
         m_RotationOrder: 4
     vectorLabel1_3: W
---- !u!199 &4712922859638193917
+--- !u!199 &812691598232475016
 ParticleSystemRenderer:
   serializedVersion: 6
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5900355040920954865}
+  m_GameObject: {fileID: 5219667228650769874}
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
