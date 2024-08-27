@@ -1,2 +1,2 @@
-# Feed-The-Blackhole
-Feed the Blackhole game
+# Primordial-Survival
+Primordial Survival game
